@@ -2,7 +2,7 @@ import java.awt.*;
 import java.applet.*;
 import java.awt.event.*;
 
-public class opdr82 extends Applet {
+public class Opdr81 extends Applet {
     TextField tekstvak;
     Button knop;
     Button knop2;

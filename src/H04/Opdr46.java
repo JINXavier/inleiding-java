@@ -1,7 +1,7 @@
 import java.awt.*;
 import java.applet.*;
 
-public class opdr46 extends Applet {
+public class Opdr46 extends Applet {
 
     public void init() {
     }

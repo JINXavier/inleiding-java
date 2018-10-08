@@ -2,7 +2,7 @@ import java.awt.*;
 import java.applet.*;
 
 
-public class opdr62 extends Applet {
+public class Opdr62 extends Applet {
     int minuut;
     int uur;
     int dag;

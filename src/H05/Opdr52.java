@@ -1,7 +1,7 @@
 import java.awt.*;
 import java.applet.*;
 
-public class opdr52 extends Applet {
+public class Opdr52 extends Applet {
     int Valerie;
     int Jeroen;
     int Hans;

@@ -2,7 +2,7 @@ import java.awt.*;
 import java.applet.*;
 
 
-public class praktijkopdracht2 extends Applet {
+public class PraktijkOpdracht2 extends Applet {
     double a, b, c, d;
 
 

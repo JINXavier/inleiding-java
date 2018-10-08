@@ -1,7 +1,7 @@
 import java.awt.*;
 import java.applet.*;
 
-public class opdr51 extends Applet {
+public class Opdr51 extends Applet {
     //declaratie.
     Color opvulkleur;
     Color lijnkleur;
